@@ -18,9 +18,9 @@ O objetivo é ajudar estudantes e trabalhadores a reconhecer riscos digitais e a
 
 ## Tecnologias utilizadas
 
-- **HTML5:** 
-- **CSS3:** 
-- **JavaScript:**
+- **HTML5** 
+- **CSS3** 
+- **JavaScript**
 
 ## Arquivos do projeto
 
