@@ -959,16 +959,3 @@ h3,
 }
 
 
-/*  */
-@media (max-width: 768px) {
-
-    .footer-container {
-        grid-template-columns: 1fr;
-        gap: 35px;
-    }
-
-    .footer-links-grid {
-        grid-template-columns: 1fr;
-        gap: 12px;
-}
-}
